@@ -15,6 +15,10 @@ Neha is an interactive virtual assistant built with React that provides a voice-
 - React Icons
 - Tailwind CSS for styling
 
+
+
+ deployed: https://nehavirtualassistant.netlify.app/
+
 ## Installation
 1. Clone the repository
 ```bash
